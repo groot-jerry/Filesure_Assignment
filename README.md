@@ -16,3 +16,4 @@
    ```bash
    python extractor.py
 3. All file are saved in output folder.
+4. Recording Link: https://www.loom.com/share/3dcc610a4e1b46c29a0fce7cd8227836?sid=95aef57f-2871-42f2-b5d0-a211d52cee91
